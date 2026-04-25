@@ -2,9 +2,9 @@ import { motion } from 'framer-motion';
 
 const Footer = () => {
   const contactLinks = [
-    { label: 'Email', value: 'danish@backend.dev', href: 'mailto:danish@backend.dev', icon: '📧' },
-    { label: 'GitHub', value: 'github.com/danishkhan', href: 'https://github.com', icon: '💻' },
-    { label: 'LinkedIn', value: 'linkedin.com/in/danishkhan', href: 'https://linkedin.com', icon: '🔗' },
+    { label: 'Email', value: 'danish@backend.dev', href: 'mailto:danishkhan801017@gmail.com', icon: '📧' },
+    { label: 'GitHub', value: 'github.com/D4nishkhan', href: 'https://github.com', icon: '💻' },
+    { label: 'LinkedIn', value: 'linkedin.com/in/danishkhan2006', href: 'https://linkedin.com', icon: '🔗' },
   ];
 
   return (
