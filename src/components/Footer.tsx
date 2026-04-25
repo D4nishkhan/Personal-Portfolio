@@ -37,7 +37,7 @@ const Footer = () => {
               Contact Me
             </a>
             <a
-              href="https://github.com/danishkhan"
+              href="https://github.com/dD4nishkhan"
               target="_blank"
               rel="noopener noreferrer"
               className="px-10 py-5 backdrop-blur-sm bg-white/90 border-2 border-warm-gray-300 text-warm-gray-800 text-lg font-bold rounded-xl shadow-lg hover:shadow-xl hover:scale-105 transition-all duration-200"
