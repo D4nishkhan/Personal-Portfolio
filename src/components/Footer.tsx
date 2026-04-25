@@ -3,7 +3,7 @@ import { motion } from 'framer-motion';
 const Footer = () => {
   const contactLinks = [
     { label: 'Email', value: 'danish@backend.dev', href: 'mailto:danishkhan801017@gmail.com', icon: '📧' },
-    { label: 'GitHub', value: 'github.com/D4nishkhan', href: 'https://github.com', icon: '💻' },
+    { label: 'GitHub', value: 'github.com/D4nishkhan', href: 'https://github.com/D4nishkhan', icon: '💻' },
     { label: 'LinkedIn', value: 'linkedin.com/in/danishkhan2006', href: 'https://linkedin.com', icon: '🔗' },
   ];
 
@@ -37,7 +37,7 @@ const Footer = () => {
               Contact Me
             </a>
             <a
-              href="https://github.com/dD4nishkhan"
+              href="https://github.com/D4nishkhan"
               target="_blank"
               rel="noopener noreferrer"
               className="px-10 py-5 backdrop-blur-sm bg-white/90 border-2 border-warm-gray-300 text-warm-gray-800 text-lg font-bold rounded-xl shadow-lg hover:shadow-xl hover:scale-105 transition-all duration-200"
